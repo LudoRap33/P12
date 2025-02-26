@@ -83,71 +83,53 @@ const dataportfolio = [{
     linkSite: "https://ludorap33.github.io/P2/"
 },
 {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
+    img: p3,
+    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    linkGitub: "https://github.com/LudoRap33/P3",
+    linkSite: "https://ludorap33.github.io/P3"
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
+    img: p4,
+    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    linkGitub: "https://github.com/LudoRap33/P4",
+    linkSite: "https://ludorap33.github.io/P4"
 },
 {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
+    img: p5,
+    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    linkGitub: "https://github.com/LudoRap33/P5",
+    linkSite: "https://ludorap33.github.io/P5"
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
+    img: p8,
+    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    linkGitub: "https://github.com/LudoRap33/P8",
+    linkSite: "https://ludorap33.github.io/P8"
 },
 {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
+    img: p9,
+    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    linkGitub: "https://github.com/LudoRap33/P9",
+    linkSite: "https://ludorap33.github.io/P9"
 },
 
 {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
+    img: p10,
+    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    linkGitub: "https://github.com/LudoRap33/P10",
+    linkSite: "https://ludorap33.github.io/P10"
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
+    img: p11,
+    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    linkGitub: "https://github.com/LudoRap33/P11",
+    linkSite: "https://ludorap33.github.io/P11"
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
-},
-{
-    img: "https://picsum.photos/400/550/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    linkGitub: "#",
-    linkSite: ""
+    img: p12,
+    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    linkGitub: "https://github.com/LudoRap33/P12",
+    linkSite: "https://ludorap33.github.io/P12"
 },
 ];
 
