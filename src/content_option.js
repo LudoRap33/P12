@@ -1,6 +1,13 @@
 import perso from './assets/images/ludo.webp'
 import p2 from './assets/images/projet2.webp'
-
+import p3 from './assets/images/projet3.webp'
+import p4 from './assets/images/projet4.webp'
+import p5 from './assets/images/projet5.webp'
+import p6 from './assets/images/projet6.webp'
+import p8 from './assets/images/projet8.webp'
+import p9 from './assets/images/projet9.webp'
+import p10 from './assets/images/projet10.webp'
+import p11 from './assets/images/projet11.webp'
 
 const logotext = "LUDO";
 const meta = {
@@ -20,7 +27,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "par rapport a moi",
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
@@ -45,8 +52,8 @@ const skills = [{
     value: 90,
 },
 {
-    name: "Djano",
-    value: 85,
+    name: "C++",
+    value: 80,
 },
 {
     name: "Javascript",
@@ -57,9 +64,13 @@ const skills = [{
     value: 60,
 },
 {
-    name: "Jquery",
-    value: 85,
+    name: "HTML",
+    value: 90,
 },
+{
+    name: "CSS",
+    value: 90,
+}
 ];
 
 const services = [{
@@ -84,52 +95,47 @@ const dataportfolio = [{
 },
 {
     img: p3,
-    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    description: "Booki - Créez la page d'accueil responsive d'une agence de voyage avec HTML & CSS conformément à une maquette.",
     linkGitub: "https://github.com/LudoRap33/P3",
     linkSite: "https://ludorap33.github.io/P3"
 },
 {
     img: p4,
-    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    description: "OhMyFood - Améliorez l'interface d'un site mobile avec des animations CSS en utilisant Sass.",
     linkGitub: "https://github.com/LudoRap33/P4",
     linkSite: "https://ludorap33.github.io/P4"
 },
 {
     img: p5,
-    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    description: "Print it! - Programmer en utilisant les fondamentaux de JavaScript.",
     linkGitub: "https://github.com/LudoRap33/P5",
     linkSite: "https://ludorap33.github.io/P5"
 },
 {
+    img: p6,
+    description: "Sophie Bluel - Créez une page web dynamique avec JavaScript en communiquant avec une API, gestion des événements et manipulation du DOM.",
+    linkGitub: "https://github.com/LudoRap33/P6"
+},
+{
     img: p8,
-    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
-    linkGitub: "https://github.com/LudoRap33/P8",
-    linkSite: "https://ludorap33.github.io/P8"
+    description: "Kasa - Créez une application web de location immobilière avec React. Create React App, React Router, Sass",
+    linkGitub: "https://github.com/LudoRap33/P8"
 },
 {
     img: p9,
-    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
+    description: "Nina Carducci - Optimisez le référencement d'un site de photographe.",
     linkGitub: "https://github.com/LudoRap33/P9",
     linkSite: "https://ludorap33.github.io/P9"
 },
-
 {
     img: p10,
-    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
-    linkGitub: "https://github.com/LudoRap33/P10",
-    linkSite: "https://ludorap33.github.io/P10"
+    description: "724 Events - Débuggez le site d'une agence d'événementiel grâce aux Chrome DevTools et tests unitaires et d'intégrations.",
+    linkGitub: "https://github.com/LudoRap33/P10"
 },
 {
     img: p11,
-    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
-    linkGitub: "https://github.com/LudoRap33/P11",
-    linkSite: "https://ludorap33.github.io/P11"
-},
-{
-    img: p12,
-    description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
-    linkGitub: "https://github.com/LudoRap33/P12",
-    linkSite: "https://ludorap33.github.io/P12"
+    description: "Argent Bank - Implémentez le front-end d'une application bancaire avec React et Redux. Configuration des routes API",
+    linkGitub: "https://github.com/LudoRap33/P11"
 },
 ];
 
@@ -145,10 +151,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/LudoRap33",
+    // facebook: "https://facebook.com",
+    // linkedin: "https://linkedin.com",
+    // twitter: "https://twitter.com",
 };
 export {
     meta,

@@ -27,7 +27,7 @@ export const Portfolio = () => {
                 <div className="content">
                   <p>{data.description}</p>
                   <a href={data.linkGitub}>Voir le projet Github</a>
-                  <a href={data.linkSite}>Voir le site</a>
+                  {data.linkSite && <a href={data.linkSite}>Voir le site</a>}
                 </div>
               </div>
             );
