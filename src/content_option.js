@@ -11,11 +11,13 @@ import p11 from './assets/images/projet11.webp'
 
 const logotext = "LUDO";
 const meta = {
+
     title: "Ludovic DUFAURE",
     description: "Je m'appelle Ludovic DUFAURE 'intégrateur web', actuellement basé sur Bordeaux en France",
 };
 
 const introdata = {
+
     title: "Bonjour je m'appelle Ludovic DUFAURE",
     animated: {
         first: "J'adore codé !",
@@ -27,10 +29,12 @@ const introdata = {
 };
 
 const dataabout = {
+
     title: "par rapport a moi",
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
+
     jobtitle: "Designer of week",
     where: "YAdfi",
     date: "2020",
@@ -47,33 +51,35 @@ const worktimeline = [{
 },
 ];
 
-const skills = [{
-    name: "Python",
-    value: 90,
+const compétences = [{
+    
+    nom: "Python",
+    valeur: 90,
 },
 {
-    name: "C++",
-    value: 80,
+    nom: "C++",
+    valeur: 80,
 },
 {
-    name: "Javascript",
-    value: 80,
+    nom: "Javascript",
+    valeur: 80,
 },
 {
-    name: "React",
-    value: 60,
+    nom: "React",
+    valeur: 60,
 },
 {
-    name: "HTML",
-    value: 90,
+    nom: "HTML",
+    valeur: 90,
 },
 {
-    name: "CSS",
-    value: 90,
+    nom: "CSS",
+    valeur: 90,
 }
 ];
 
 const services = [{
+
     title: "UI & UX Design",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
 },
@@ -88,6 +94,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
+
     img: p2,
     description: "Riding Cities - Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML et CSS.",
     linkGitub: "https://github.com/LudoRap33/P2",
@@ -140,8 +147,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_MAIL: "ludovicdufaure@gmail.com",
+    YOUR_FONE: "0681008595",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
