@@ -30,11 +30,10 @@ const introdata = {
 
 const dataabout = {
 
-    title: "par rapport a moi",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A propos de moi",
+    aboutme: "Je suis 'Intégrateur Web', actuellement basé sur Bordeaux en France.",
 };
 const worktimeline = [{
-
     jobtitle: "Designer of week",
     where: "YAdfi",
     date: "2020",
@@ -51,45 +50,37 @@ const worktimeline = [{
 },
 ];
 
-const compétences = [{
-    
-    nom: "Python",
-    valeur: 90,
+const skills = [{
+
+    name: "HTML",
+    value: 90,
 },
 {
-    nom: "C++",
-    valeur: 80,
+    name: "CSS",
+    value: 80,
 },
 {
-    nom: "Javascript",
-    valeur: 80,
+    name: "Sass",
+    value: 80,
 },
 {
-    nom: "React",
-    valeur: 60,
+    name: "Javascript",
+    value: 80,
 },
 {
-    nom: "HTML",
-    valeur: 90,
-},
-{
-    nom: "CSS",
-    valeur: 90,
+    name: "React",
+    value: 70,
 }
 ];
 
 const services = [{
 
-    title: "UI & UX Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    title: "Création de Site internet",
+    description: "Je créé des site internet professionel sur mesure.",
 },
 {
-    title: "Mobile Apps",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-},
-{
-    title: "Wordpress Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    title: "Intégration",
+    description: "J'intégre vos maquettes.",
 },
 ];
 
@@ -147,9 +138,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_MAIL: "ludovicdufaure@gmail.com",
+    YOUR_EMAIL: "ludovicdufaure@gmail.com",
     YOUR_FONE: "0681008595",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "N'hésitez pas à me contacter par email, je vous répondrez dès que possible. :)",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
