@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/P12/static/css/main.34a5dbb4.css",
+    "main.js": "/P12/static/js/main.916430ae.js",
+    "static/media/projet6.webp": "/P12/static/media/projet6.669722e2e4de7d7f7a0f.webp",
+    "static/media/projet4.webp": "/P12/static/media/projet4.c68209335b6a1c9bd656.webp",
+    "static/media/projet9.webp": "/P12/static/media/projet9.35805b1ee6059b85b4e0.webp",
+    "static/media/projet5.webp": "/P12/static/media/projet5.e606e7d386315374850e.webp",
+    "static/media/projet10.webp": "/P12/static/media/projet10.2805607bb0affd8d7ced.webp",
+    "static/media/projet3.webp": "/P12/static/media/projet3.4ab417c9797c937d011f.webp",
+    "static/media/projet8.webp": "/P12/static/media/projet8.43ed495172dab61c066b.webp",
+    "static/media/projet2.webp": "/P12/static/media/projet2.09ff85bb76e4b6c9ea6e.webp",
+    "static/media/projet11.webp": "/P12/static/media/projet11.4f266c3881bf9b0e0e91.webp",
+    "static/media/ludo.webp": "/P12/static/media/ludo.548337d0dd8472fd26d0.webp",
+    "index.html": "/P12/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.34a5dbb4.css",
+    "static/js/main.916430ae.js"
+  ]
+}
