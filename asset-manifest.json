@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/P12/static/css/main.34a5dbb4.css",
-    "main.js": "/P12/static/js/main.916430ae.js",
+    "main.js": "/P12/static/js/main.97fb5e4e.js",
     "static/media/projet6.webp": "/P12/static/media/projet6.669722e2e4de7d7f7a0f.webp",
     "static/media/projet4.webp": "/P12/static/media/projet4.c68209335b6a1c9bd656.webp",
     "static/media/projet9.webp": "/P12/static/media/projet9.35805b1ee6059b85b4e0.webp",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.34a5dbb4.css",
-    "static/js/main.916430ae.js"
+    "static/js/main.97fb5e4e.js"
   ]
 }
