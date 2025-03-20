@@ -13,19 +13,18 @@ const logotext = "LUDO";
 const meta = {
 
     title: "Ludovic DUFAURE",
-    description: "Je m'appelle Ludovic DUFAURE 'intégrateur web', actuellement basé sur Bordeaux en France",
+    description: "Je m'appelle Ludovic 'Intégrateur Web', actuellement basé sur Bordeaux en France",
 };
 
 const introdata = {
 
-    title: "Bonjour je m'appelle Ludovic DUFAURE",
+    title: "Bonjour je m'appelle",
     animated: {
-        first: "J'adore codé !",
-        second: "Je code des sites internet cool !",
+        first: "J'adore codé.",
+        second: "Je code des sites internet.",
         third: "Je développe en utilisant React",
     },
-    description: "je suis'intégrateur web', actuellement basé sur Bordeaux en France",
-    your_img_url: perso,
+    description: "je suis 'Intégrateur Web' , actuellement basé sur Bordeaux en France",
 };
 
 const dataabout = {
@@ -139,7 +138,6 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "ludovicdufaure@gmail.com",
-    YOUR_FONE: "0681008595",
     description: "N'hésitez pas à me contacter par email, je vous répondrez dès que possible. :)",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
